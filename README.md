@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preciousamihere
-- 👀 I’m interested in buidling softwares and management databses as well as games.
-- 🌱 I’m currently learning darts in conjunction with Flutter.
-- 💞️ I’m looking to collaborate on creating an app
+- 👀 I’m interested in buidling softwares and simple websites as well as games.
+- 🌱 I’m currently open to creating websites for schools, companies, individuals and organizations.
+- 💞️ I’m looking to collaborate on creating a software
 - 📫 How to reach me 
 Email:preciousamihere@gmail.com
 Instagram:preciousamihere
